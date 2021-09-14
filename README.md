@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CBongard90
+- 👋 Hi, I’m @cbongard90
 - 👀 I’m interested in music, science and movies.
 - 🌱 I’m currently learning various programming languages such as CSS,HTML,Java and Ruby
 - 💞️ I’m looking to collaborate on nothing at the moment but let's wait and see 😊
